@@ -1,0 +1,127 @@
+---
+object: card
+id: bca3cf0f-8c86-4454-bfe5-d2d3bf952550
+oracle_id: ec08df88-3c13-4940-a090-0c502b9b12f1
+multiverse_ids:
+- 420636
+tcgplayer_id: 124520
+cardmarket_id: 293532
+name: Goblin Spymaster
+lang: en
+released_at: '2016-11-11'
+uri: https://api.scryfall.com/cards/bca3cf0f-8c86-4454-bfe5-d2d3bf952550
+scryfall_uri: https://scryfall.com/card/c16/19/goblin-spymaster?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/c/bca3cf0f-8c86-4454-bfe5-d2d3bf952550.jpg?1562417419
+  normal: https://cards.scryfall.io/normal/front/b/c/bca3cf0f-8c86-4454-bfe5-d2d3bf952550.jpg?1562417419
+  large: https://cards.scryfall.io/large/front/b/c/bca3cf0f-8c86-4454-bfe5-d2d3bf952550.jpg?1562417419
+  png: https://cards.scryfall.io/png/front/b/c/bca3cf0f-8c86-4454-bfe5-d2d3bf952550.png?1562417419
+  art_crop: https://cards.scryfall.io/art_crop/front/b/c/bca3cf0f-8c86-4454-bfe5-d2d3bf952550.jpg?1562417419
+  border_crop: https://cards.scryfall.io/border_crop/front/b/c/bca3cf0f-8c86-4454-bfe5-d2d3bf952550.jpg?1562417419
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Creature — Goblin Rogue
+oracle_text: |-
+  First strike
+  At the beginning of each opponent's end step, that player creates a 1/1 red Goblin creature token with "Creatures you control attack each combat if able."
+power: '2'
+toughness: '1'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- First strike
+all_parts:
+- object: related_card
+  id: 99a6ebce-f391-4642-857a-4dc1466895f3
+  component: token
+  name: Goblin
+  type_line: Token Creature — Goblin
+  uri: https://api.scryfall.com/cards/99a6ebce-f391-4642-857a-4dc1466895f3
+- object: related_card
+  id: bca3cf0f-8c86-4454-bfe5-d2d3bf952550
+  component: combo_piece
+  name: Goblin Spymaster
+  type_line: Creature — Goblin Rogue
+  uri: https://api.scryfall.com/cards/bca3cf0f-8c86-4454-bfe5-d2d3bf952550
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 3e0d713a-b5cb-4287-81b9-a57d4dcaf415
+set: c16
+set_name: Commander 2016
+set_type: commander
+set_uri: https://api.scryfall.com/sets/3e0d713a-b5cb-4287-81b9-a57d4dcaf415
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac16&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c16?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/bca3cf0f-8c86-4454-bfe5-d2d3bf952550/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aec08df88-3c13-4940-a090-0c502b9b12f1&unique=prints
+collector_number: '19'
+digital: false
+rarity: rare
+flavor_text: |-
+  "Infiltrate and infuriate!"
+  —Goblin Espionage League motto
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Wayne Reynolds
+artist_ids:
+- afc47cec-3ccc-404e-a8c6-4d83dd504271
+illustration_id: 2cd6912d-92a8-46c7-8bbe-f5c28133bda4
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 4306
+prices:
+  usd: '1.59'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.96'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420636
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Goblin+Spymaster&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Goblin+Spymaster&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Goblin+Spymaster
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/124520?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Goblin+Spymaster&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Goblin+Spymaster&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

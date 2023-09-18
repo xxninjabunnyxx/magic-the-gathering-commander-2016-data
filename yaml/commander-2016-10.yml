@@ -1,0 +1,109 @@
+---
+object: card
+id: ae9b2617-4910-4bde-b07f-dff2ac1f19d6
+oracle_id: 9c793037-6ba8-400a-b24d-6032141e8dae
+multiverse_ids:
+- 420627
+tcgplayer_id: 124197
+cardmarket_id: 293522
+name: Manifold Insights
+lang: en
+released_at: '2016-11-11'
+uri: https://api.scryfall.com/cards/ae9b2617-4910-4bde-b07f-dff2ac1f19d6
+scryfall_uri: https://scryfall.com/card/c16/10/manifold-insights?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/e/ae9b2617-4910-4bde-b07f-dff2ac1f19d6.jpg?1562415049
+  normal: https://cards.scryfall.io/normal/front/a/e/ae9b2617-4910-4bde-b07f-dff2ac1f19d6.jpg?1562415049
+  large: https://cards.scryfall.io/large/front/a/e/ae9b2617-4910-4bde-b07f-dff2ac1f19d6.jpg?1562415049
+  png: https://cards.scryfall.io/png/front/a/e/ae9b2617-4910-4bde-b07f-dff2ac1f19d6.png?1562415049
+  art_crop: https://cards.scryfall.io/art_crop/front/a/e/ae9b2617-4910-4bde-b07f-dff2ac1f19d6.jpg?1562415049
+  border_crop: https://cards.scryfall.io/border_crop/front/a/e/ae9b2617-4910-4bde-b07f-dff2ac1f19d6.jpg?1562415049
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Reveal the top ten cards of your library. Starting with the next opponent
+  in turn order, each opponent chooses a different nonland card from among them. Put
+  the chosen cards into your hand and the rest on the bottom of your library in a
+  random order.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 3e0d713a-b5cb-4287-81b9-a57d4dcaf415
+set: c16
+set_name: Commander 2016
+set_type: commander
+set_uri: https://api.scryfall.com/sets/3e0d713a-b5cb-4287-81b9-a57d4dcaf415
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac16&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c16?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ae9b2617-4910-4bde-b07f-dff2ac1f19d6/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9c793037-6ba8-400a-b24d-6032141e8dae&unique=prints
+collector_number: '10'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Tommy Arnold
+artist_ids:
+- 1130bcd0-c8b1-48be-85d7-3ddb2abc6b1a
+illustration_id: e3516079-06c9-468b-a679-87d539afe7da
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 9551
+prices:
+  usd: '0.61'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.79'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420627
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Manifold+Insights&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Manifold+Insights&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Manifold+Insights
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/124197?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Manifold+Insights&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Manifold+Insights&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

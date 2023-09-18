@@ -1,0 +1,109 @@
+---
+object: card
+id: 1016fb10-82b5-465a-8f33-ec54f9785544
+oracle_id: '08497e8f-3521-48e4-a1e7-c192b485d891'
+multiverse_ids:
+- 420861
+tcgplayer_id: 124408
+cardmarket_id: 293741
+name: Blinkmoth Urn
+lang: en
+released_at: '2016-11-11'
+uri: https://api.scryfall.com/cards/1016fb10-82b5-465a-8f33-ec54f9785544
+scryfall_uri: https://scryfall.com/card/c16/244/blinkmoth-urn?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/0/1016fb10-82b5-465a-8f33-ec54f9785544.jpg?1562388649
+  normal: https://cards.scryfall.io/normal/front/1/0/1016fb10-82b5-465a-8f33-ec54f9785544.jpg?1562388649
+  large: https://cards.scryfall.io/large/front/1/0/1016fb10-82b5-465a-8f33-ec54f9785544.jpg?1562388649
+  png: https://cards.scryfall.io/png/front/1/0/1016fb10-82b5-465a-8f33-ec54f9785544.png?1562388649
+  art_crop: https://cards.scryfall.io/art_crop/front/1/0/1016fb10-82b5-465a-8f33-ec54f9785544.jpg?1562388649
+  border_crop: https://cards.scryfall.io/border_crop/front/1/0/1016fb10-82b5-465a-8f33-ec54f9785544.jpg?1562388649
+mana_cost: "{5}"
+cmc: 5.0
+type_line: Artifact
+oracle_text: At the beginning of each player's precombat main phase, if Blinkmoth
+  Urn is untapped, that player adds {C} for each artifact they control.
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 3e0d713a-b5cb-4287-81b9-a57d4dcaf415
+set: c16
+set_name: Commander 2016
+set_type: commander
+set_uri: https://api.scryfall.com/sets/3e0d713a-b5cb-4287-81b9-a57d4dcaf415
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac16&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c16?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/1016fb10-82b5-465a-8f33-ec54f9785544/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A08497e8f-3521-48e4-a1e7-c192b485d891&unique=prints
+collector_number: '244'
+digital: false
+rarity: rare
+flavor_text: The vedalken embed such urns in their living artifact creations.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: David Martin
+artist_ids:
+- 996ad764-4ae0-4952-8bb5-5a75c9d68275
+illustration_id: d89d04f2-f7b4-43d9-af9f-954da3c321ed
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 2447
+penny_rank: 13306
+prices:
+  usd: '1.80'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.07'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420861
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Blinkmoth+Urn&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Blinkmoth+Urn&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Blinkmoth+Urn
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/124408?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blinkmoth+Urn&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blinkmoth+Urn&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

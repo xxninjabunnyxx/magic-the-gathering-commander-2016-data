@@ -1,0 +1,113 @@
+---
+object: card
+id: 8d108f7a-d255-424d-8936-340150371e81
+oracle_id: a1399cb8-f22a-487e-b539-2db47b09a790
+multiverse_ids:
+- 420699
+tcgplayer_id: 124384
+cardmarket_id: 293581
+name: Aeon Chronicler
+lang: en
+released_at: '2016-11-11'
+uri: https://api.scryfall.com/cards/8d108f7a-d255-424d-8936-340150371e81
+scryfall_uri: https://scryfall.com/card/c16/82/aeon-chronicler?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/d/8d108f7a-d255-424d-8936-340150371e81.jpg?1562409653
+  normal: https://cards.scryfall.io/normal/front/8/d/8d108f7a-d255-424d-8936-340150371e81.jpg?1562409653
+  large: https://cards.scryfall.io/large/front/8/d/8d108f7a-d255-424d-8936-340150371e81.jpg?1562409653
+  png: https://cards.scryfall.io/png/front/8/d/8d108f7a-d255-424d-8936-340150371e81.png?1562409653
+  art_crop: https://cards.scryfall.io/art_crop/front/8/d/8d108f7a-d255-424d-8936-340150371e81.jpg?1562409653
+  border_crop: https://cards.scryfall.io/border_crop/front/8/d/8d108f7a-d255-424d-8936-340150371e81.jpg?1562409653
+mana_cost: "{3}{U}{U}"
+cmc: 5.0
+type_line: Creature — Avatar
+oracle_text: |-
+  Aeon Chronicler's power and toughness are each equal to the number of cards in your hand.
+  Suspend X—{X}{3}{U}. X can't be 0.
+  Whenever a time counter is removed from Aeon Chronicler while it's exiled, draw a card.
+power: "*"
+toughness: "*"
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Suspend
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 3e0d713a-b5cb-4287-81b9-a57d4dcaf415
+set: c16
+set_name: Commander 2016
+set_type: commander
+set_uri: https://api.scryfall.com/sets/3e0d713a-b5cb-4287-81b9-a57d4dcaf415
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac16&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c16?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8d108f7a-d255-424d-8936-340150371e81/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa1399cb8-f22a-487e-b539-2db47b09a790&unique=prints
+collector_number: '82'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dan Dos Santos
+artist_ids:
+- 9b55c657-5b5b-4152-a6e2-51180517bfa9
+illustration_id: 954ace7f-5b07-4dbe-8638-ab83d4d9c3fe
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 7388
+penny_rank: 5128
+prices:
+  usd: '0.14'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.13'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420699
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Aeon+Chronicler&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Aeon+Chronicler&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Aeon+Chronicler
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/124384?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Aeon+Chronicler&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Aeon+Chronicler&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,107 @@
+---
+object: card
+id: ee1dbbf1-3c59-49a1-a805-1cbee1b4b08e
+oracle_id: 9ec43ec6-b625-4be8-8f79-3679e6657dbc
+multiverse_ids:
+- 420879
+tcgplayer_id: 124574
+cardmarket_id: 293757
+name: Mycosynth Wellspring
+lang: en
+released_at: '2016-11-11'
+uri: https://api.scryfall.com/cards/ee1dbbf1-3c59-49a1-a805-1cbee1b4b08e
+scryfall_uri: https://scryfall.com/card/c16/262/mycosynth-wellspring?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/e/ee1dbbf1-3c59-49a1-a805-1cbee1b4b08e.jpg?1562425095
+  normal: https://cards.scryfall.io/normal/front/e/e/ee1dbbf1-3c59-49a1-a805-1cbee1b4b08e.jpg?1562425095
+  large: https://cards.scryfall.io/large/front/e/e/ee1dbbf1-3c59-49a1-a805-1cbee1b4b08e.jpg?1562425095
+  png: https://cards.scryfall.io/png/front/e/e/ee1dbbf1-3c59-49a1-a805-1cbee1b4b08e.png?1562425095
+  art_crop: https://cards.scryfall.io/art_crop/front/e/e/ee1dbbf1-3c59-49a1-a805-1cbee1b4b08e.jpg?1562425095
+  border_crop: https://cards.scryfall.io/border_crop/front/e/e/ee1dbbf1-3c59-49a1-a805-1cbee1b4b08e.jpg?1562425095
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact
+oracle_text: When Mycosynth Wellspring enters the battlefield or is put into a graveyard
+  from the battlefield, you may search your library for a basic land card, reveal
+  it, put it into your hand, then shuffle.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 3e0d713a-b5cb-4287-81b9-a57d4dcaf415
+set: c16
+set_name: Commander 2016
+set_type: commander
+set_uri: https://api.scryfall.com/sets/3e0d713a-b5cb-4287-81b9-a57d4dcaf415
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac16&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c16?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ee1dbbf1-3c59-49a1-a805-1cbee1b4b08e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9ec43ec6-b625-4be8-8f79-3679e6657dbc&unique=prints
+collector_number: '262'
+digital: false
+rarity: common
+flavor_text: The oil created the mycosynth. The mycosynth created New Phyrexia.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: David Rapoza
+artist_ids:
+- c5a2318d-5d04-499f-b121-57dee5a9dfe6
+illustration_id: 1865c9c2-d9c4-4b98-8ce7-1ee61da28513
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 1724
+penny_rank: 2815
+prices:
+  usd: '0.15'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420879
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mycosynth+Wellspring&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mycosynth+Wellspring&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mycosynth+Wellspring
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/124574?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mycosynth+Wellspring&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mycosynth+Wellspring&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

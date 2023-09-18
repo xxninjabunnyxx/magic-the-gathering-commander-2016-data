@@ -1,0 +1,113 @@
+---
+object: card
+id: 130db905-d2e4-4be9-a4ae-a8aae01a3147
+oracle_id: 01afb7a1-6427-4bb6-935a-613e9bda9de3
+multiverse_ids:
+- 420814
+tcgplayer_id: 124488
+cardmarket_id: 293697
+name: Etherium-Horn Sorcerer
+lang: en
+released_at: '2016-11-11'
+uri: https://api.scryfall.com/cards/130db905-d2e4-4be9-a4ae-a8aae01a3147
+scryfall_uri: https://scryfall.com/card/c16/197/etherium-horn-sorcerer?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/3/130db905-d2e4-4be9-a4ae-a8aae01a3147.jpg?1562389112
+  normal: https://cards.scryfall.io/normal/front/1/3/130db905-d2e4-4be9-a4ae-a8aae01a3147.jpg?1562389112
+  large: https://cards.scryfall.io/large/front/1/3/130db905-d2e4-4be9-a4ae-a8aae01a3147.jpg?1562389112
+  png: https://cards.scryfall.io/png/front/1/3/130db905-d2e4-4be9-a4ae-a8aae01a3147.png?1562389112
+  art_crop: https://cards.scryfall.io/art_crop/front/1/3/130db905-d2e4-4be9-a4ae-a8aae01a3147.jpg?1562389112
+  border_crop: https://cards.scryfall.io/border_crop/front/1/3/130db905-d2e4-4be9-a4ae-a8aae01a3147.jpg?1562389112
+mana_cost: "{4}{U}{R}"
+cmc: 6.0
+type_line: Artifact Creature — Minotaur Wizard
+oracle_text: |-
+  {1}{U}{R}: Return Etherium-Horn Sorcerer to its owner's hand.
+  Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)
+power: '3'
+toughness: '6'
+colors:
+- R
+- U
+color_identity:
+- R
+- U
+keywords:
+- Cascade
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 3e0d713a-b5cb-4287-81b9-a57d4dcaf415
+set: c16
+set_name: Commander 2016
+set_type: commander
+set_uri: https://api.scryfall.com/sets/3e0d713a-b5cb-4287-81b9-a57d4dcaf415
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac16&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c16?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/130db905-d2e4-4be9-a4ae-a8aae01a3147/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A01afb7a1-6427-4bb6-935a-613e9bda9de3&unique=prints
+collector_number: '197'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Franz Vohwinkel
+artist_ids:
+- 3a243c17-3baa-4b53-9599-645311cd7d3d
+illustration_id: 9da4629a-2ab3-49a5-9f55-1bd693e2112c
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 5210
+prices:
+  usd: '0.24'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.19'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420814
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Etherium-Horn+Sorcerer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Etherium-Horn+Sorcerer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Etherium-Horn+Sorcerer
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/124488?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Etherium-Horn+Sorcerer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Etherium-Horn+Sorcerer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

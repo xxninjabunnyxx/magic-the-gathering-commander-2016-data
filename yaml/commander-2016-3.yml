@@ -1,0 +1,111 @@
+---
+object: card
+id: 00464232-2594-405a-95bb-f9b2a3287871
+oracle_id: d5e9942e-096f-433f-8668-4b594f3c1b02
+multiverse_ids:
+- 420620
+tcgplayer_id: 124590
+cardmarket_id: 293549
+name: Orzhov Advokist
+lang: en
+released_at: '2016-11-11'
+uri: https://api.scryfall.com/cards/00464232-2594-405a-95bb-f9b2a3287871
+scryfall_uri: https://scryfall.com/card/c16/3/orzhov-advokist?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/0/00464232-2594-405a-95bb-f9b2a3287871.jpg?1562385692
+  normal: https://cards.scryfall.io/normal/front/0/0/00464232-2594-405a-95bb-f9b2a3287871.jpg?1562385692
+  large: https://cards.scryfall.io/large/front/0/0/00464232-2594-405a-95bb-f9b2a3287871.jpg?1562385692
+  png: https://cards.scryfall.io/png/front/0/0/00464232-2594-405a-95bb-f9b2a3287871.png?1562385692
+  art_crop: https://cards.scryfall.io/art_crop/front/0/0/00464232-2594-405a-95bb-f9b2a3287871.jpg?1562385692
+  border_crop: https://cards.scryfall.io/border_crop/front/0/0/00464232-2594-405a-95bb-f9b2a3287871.jpg?1562385692
+mana_cost: "{2}{W}"
+cmc: 3.0
+type_line: Creature — Human Advisor
+oracle_text: At the beginning of your upkeep, each player may put two +1/+1 counters
+  on a creature they control. If a player does, creatures that player controls can't
+  attack you or planeswalkers you control until your next turn.
+power: '1'
+toughness: '4'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 3e0d713a-b5cb-4287-81b9-a57d4dcaf415
+set: c16
+set_name: Commander 2016
+set_type: commander
+set_uri: https://api.scryfall.com/sets/3e0d713a-b5cb-4287-81b9-a57d4dcaf415
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac16&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c16?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/00464232-2594-405a-95bb-f9b2a3287871/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad5e9942e-096f-433f-8668-4b594f3c1b02&unique=prints
+collector_number: '3'
+digital: false
+rarity: uncommon
+flavor_text: The Orzhov care not for repentance, only repayment.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jason A. Engle
+artist_ids:
+- 02e2b5de-4341-464c-8fdb-a1adbf873bc0
+illustration_id: '08b08a92-644b-4cd0-8f87-6f7779bd8ea0'
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 2417
+penny_rank: 2092
+prices:
+  usd: '0.12'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.52'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420620
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Orzhov+Advokist&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Orzhov+Advokist&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Orzhov+Advokist
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/124590?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Orzhov+Advokist&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Orzhov+Advokist&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

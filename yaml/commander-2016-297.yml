@@ -1,0 +1,116 @@
+---
+object: card
+id: a561361b-990f-4cca-9ba4-3bd4e7a1f8a0
+oracle_id: e4cf6c2f-0f1e-4980-9ef9-e4eabcae42a9
+multiverse_ids:
+- 420914
+tcgplayer_id: 124515
+cardmarket_id: 293789
+name: Frontier Bivouac
+lang: en
+released_at: '2016-11-11'
+uri: https://api.scryfall.com/cards/a561361b-990f-4cca-9ba4-3bd4e7a1f8a0
+scryfall_uri: https://scryfall.com/card/c16/297/frontier-bivouac?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/5/a561361b-990f-4cca-9ba4-3bd4e7a1f8a0.jpg?1562413833
+  normal: https://cards.scryfall.io/normal/front/a/5/a561361b-990f-4cca-9ba4-3bd4e7a1f8a0.jpg?1562413833
+  large: https://cards.scryfall.io/large/front/a/5/a561361b-990f-4cca-9ba4-3bd4e7a1f8a0.jpg?1562413833
+  png: https://cards.scryfall.io/png/front/a/5/a561361b-990f-4cca-9ba4-3bd4e7a1f8a0.png?1562413833
+  art_crop: https://cards.scryfall.io/art_crop/front/a/5/a561361b-990f-4cca-9ba4-3bd4e7a1f8a0.jpg?1562413833
+  border_crop: https://cards.scryfall.io/border_crop/front/a/5/a561361b-990f-4cca-9ba4-3bd4e7a1f8a0.jpg?1562413833
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Frontier Bivouac enters the battlefield tapped.
+  {T}: Add {G}, {U}, or {R}.
+colors: []
+color_identity:
+- G
+- R
+- U
+keywords: []
+produced_mana:
+- G
+- R
+- U
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 3e0d713a-b5cb-4287-81b9-a57d4dcaf415
+set: c16
+set_name: Commander 2016
+set_type: commander
+set_uri: https://api.scryfall.com/sets/3e0d713a-b5cb-4287-81b9-a57d4dcaf415
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac16&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c16?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a561361b-990f-4cca-9ba4-3bd4e7a1f8a0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae4cf6c2f-0f1e-4980-9ef9-e4eabcae42a9&unique=prints
+collector_number: '297'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "The most powerful dreams visit those who shelter in a dragon's skull."
+  —Chianul, Who Whispers Twice
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Titus Lunter
+artist_ids:
+- b11e6b3a-f4ca-4cf1-8fd7-475696de5f5c
+illustration_id: 0e8bf215-f0b9-4475-9a8e-b6e9a7abe0d5
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 466
+penny_rank: 317
+prices:
+  usd: '0.38'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.29'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420914
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Frontier+Bivouac&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Frontier+Bivouac&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Frontier+Bivouac
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/124515?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Frontier+Bivouac&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Frontier+Bivouac&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,110 @@
+---
+object: card
+id: 86e072aa-4234-416d-b83e-cdc4f511a6d9
+oracle_id: 96b87445-6362-4a17-91b2-cbf203fd03fd
+multiverse_ids:
+- 420706
+tcgplayer_id: 124497
+cardmarket_id: 293587
+name: Etherium Sculptor
+lang: en
+released_at: '2016-11-11'
+uri: https://api.scryfall.com/cards/86e072aa-4234-416d-b83e-cdc4f511a6d9
+scryfall_uri: https://scryfall.com/card/c16/89/etherium-sculptor?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/6/86e072aa-4234-416d-b83e-cdc4f511a6d9.jpg?1562408706
+  normal: https://cards.scryfall.io/normal/front/8/6/86e072aa-4234-416d-b83e-cdc4f511a6d9.jpg?1562408706
+  large: https://cards.scryfall.io/large/front/8/6/86e072aa-4234-416d-b83e-cdc4f511a6d9.jpg?1562408706
+  png: https://cards.scryfall.io/png/front/8/6/86e072aa-4234-416d-b83e-cdc4f511a6d9.png?1562408706
+  art_crop: https://cards.scryfall.io/art_crop/front/8/6/86e072aa-4234-416d-b83e-cdc4f511a6d9.jpg?1562408706
+  border_crop: https://cards.scryfall.io/border_crop/front/8/6/86e072aa-4234-416d-b83e-cdc4f511a6d9.jpg?1562408706
+mana_cost: "{1}{U}"
+cmc: 2.0
+type_line: Artifact Creature — Vedalken Artificer
+oracle_text: Artifact spells you cast cost {1} less to cast.
+power: '1'
+toughness: '2'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 3e0d713a-b5cb-4287-81b9-a57d4dcaf415
+set: c16
+set_name: Commander 2016
+set_type: commander
+set_uri: https://api.scryfall.com/sets/3e0d713a-b5cb-4287-81b9-a57d4dcaf415
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac16&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c16?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/86e072aa-4234-416d-b83e-cdc4f511a6d9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A96b87445-6362-4a17-91b2-cbf203fd03fd&unique=prints
+collector_number: '89'
+digital: false
+rarity: common
+flavor_text: The greatest masters of the craft abandon tools altogether, shaping metal
+  with hand and mind alone.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steven Belledin
+artist_ids:
+- f07d73b9-52a0-4fe5-858b-61f7b42174a5
+illustration_id: 32e6ee33-0ab0-44d0-bb71-ed4cff4ce208
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 476
+penny_rank: 1508
+prices:
+  usd: '0.58'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.48'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420706
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Etherium+Sculptor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Etherium+Sculptor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Etherium+Sculptor
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/124497?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Etherium+Sculptor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Etherium+Sculptor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

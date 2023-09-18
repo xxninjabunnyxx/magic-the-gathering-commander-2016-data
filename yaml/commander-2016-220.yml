@@ -1,0 +1,117 @@
+---
+object: card
+id: 9a9fd6b0-bb47-4ab5-968d-3051c0d7a082
+oracle_id: b628a39b-c923-473d-900a-1617f47ecb76
+multiverse_ids:
+- 420837
+tcgplayer_id: 124623
+cardmarket_id: 293718
+name: Selvala, Explorer Returned
+lang: en
+released_at: '2016-11-11'
+uri: https://api.scryfall.com/cards/9a9fd6b0-bb47-4ab5-968d-3051c0d7a082
+scryfall_uri: https://scryfall.com/card/c16/220/selvala-explorer-returned?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/a/9a9fd6b0-bb47-4ab5-968d-3051c0d7a082.jpg?1562411834
+  normal: https://cards.scryfall.io/normal/front/9/a/9a9fd6b0-bb47-4ab5-968d-3051c0d7a082.jpg?1562411834
+  large: https://cards.scryfall.io/large/front/9/a/9a9fd6b0-bb47-4ab5-968d-3051c0d7a082.jpg?1562411834
+  png: https://cards.scryfall.io/png/front/9/a/9a9fd6b0-bb47-4ab5-968d-3051c0d7a082.png?1562411834
+  art_crop: https://cards.scryfall.io/art_crop/front/9/a/9a9fd6b0-bb47-4ab5-968d-3051c0d7a082.jpg?1562411834
+  border_crop: https://cards.scryfall.io/border_crop/front/9/a/9a9fd6b0-bb47-4ab5-968d-3051c0d7a082.jpg?1562411834
+mana_cost: "{1}{G}{W}"
+cmc: 3.0
+type_line: Legendary Creature — Elf Scout
+oracle_text: 'Parley — {T}: Each player reveals the top card of their library. For
+  each nonland card revealed this way, add {G} and you gain 1 life. Then each player
+  draws a card.'
+power: '2'
+toughness: '4'
+colors:
+- G
+- W
+color_identity:
+- G
+- W
+keywords:
+- Parley
+produced_mana:
+- G
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 3e0d713a-b5cb-4287-81b9-a57d4dcaf415
+set: c16
+set_name: Commander 2016
+set_type: commander
+set_uri: https://api.scryfall.com/sets/3e0d713a-b5cb-4287-81b9-a57d4dcaf415
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac16&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c16?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9a9fd6b0-bb47-4ab5-968d-3051c0d7a082/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab628a39b-c923-473d-900a-1617f47ecb76&unique=prints
+collector_number: '220'
+digital: false
+rarity: rare
+flavor_text: '"The Lowlands refuse to suffer at the whims of the High City."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Tyler Jacobson
+artist_ids:
+- 522af130-8db4-4b4b-950c-6e2b246339cf
+illustration_id: cf388610-36fc-4c10-a665-dfa8037abad9
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 2168
+penny_rank: 2281
+prices:
+  usd: '0.28'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420837
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Selvala%2C+Explorer+Returned&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Selvala%2C+Explorer+Returned&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Selvala%2C+Explorer+Returned
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/124623?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Selvala%2C+Explorer+Returned&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Selvala%2C+Explorer+Returned&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
